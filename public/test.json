@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "company_logo": "https://example.com/company1_logo.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tech Innovators Inc.",
+      "remote_onsite": "Remote",
+      "location": "Any",
+      "fulltime_parttime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We are seeking a talented software engineer to join our dynamic team...",
+      "job_responsibility": "Design and implement software solutions, collaborate with cross-functional teams...",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "2+ years of experience in software development",
+      "contact_information": {
+        "phone": "555-1234",
+        "email": "jobs@example.com"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://example.com/company2_logo.png",
+      "job_title": "Marketing Specialist",
+      "company_name": "Global Marketing Solutions",
+      "remote_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_parttime": "Part-time",
+      "salary": "$50,000 - $60,000",
+      "job_description": "We are looking for a creative and motivated marketing specialist to join our team...",
+      "job_responsibility": "Develop and implement marketing strategies, create engaging content, analyze market trends...",
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "1+ years of experience in marketing",
+      "contact_information": {
+        "phone": "555-5678",
+        "email": "hr@globalmarketing.com"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://example.com/company3_logo.png",
+      "job_title": "Data Scientist",
+      "company_name": "Analytics Pro",
+      "remote_onsite": "Remote",
+      "location": "Any",
+      "fulltime_parttime": "Full-time",
+      "salary": "$90,000 - $110,000",
+      "job_description": "Join our data science team and contribute to cutting-edge analytics projects...",
+      "job_responsibility": "Develop machine learning models, analyze large datasets, collaborate with data engineers...",
+      "educational_requirements": "Master's degree in Data Science, Statistics, or related field",
+      "experiences": "3+ years of experience in data science",
+      "contact_information": {
+        "phone": "555-9876",
+        "email": "careers@analyticspro.com"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://example.com/company4_logo.png",
+      "job_title": "Graphic Designer",
+      "company_name": "Creative Designs Co.",
+      "remote_onsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "fulltime_parttime": "Full-time",
+      "salary": "$60,000 - $80,000",
+      "job_description": "We are looking for a talented graphic designer to join our creative team...",
+      "job_responsibility": "Create visual concepts, develop creative design solutions, collaborate with marketing teams...",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+      "experiences": "2+ years of experience in graphic design",
+      "contact_information": {
+        "phone": "555-4321",
+        "email": "designjobs@creativedesignsco.com"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://example.com/company5_logo.png",
+      "job_title": "Financial Analyst",
+      "company_name": "Capital Investments LLC",
+      "remote_onsite": "Remote",
+      "location": "Any",
+      "fulltime_parttime": "Full-time",
+      "salary": "$70,000 - $90,000",
+      "job_description": "Join our finance team and contribute to strategic financial planning and analysis...",
+      "job_responsibility": "Conduct financial forecasting, analyze market trends, prepare financial reports...",
+      "educational_requirements": "Bachelor's degree in Finance, Accounting, or related field",
+      "experiences": "2+ years of experience in financial analysis",
+      "contact_information": {
+        "phone": "555-8765",
+        "email": "financejobs@capitalinvestments.com"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://example.com/company6_logo.png",
+      "job_title": "Customer Support Representative",
+      "company_name": "Service Excellence Corp.",
+      "remote_onsite": "Onsite",
+      "location": "Chicago, IL",
+      "fulltime_parttime": "Part-time",
+      "salary": "$40,000 - $50,000",
+      "job_description": "Join our customer support team and provide exceptional service to our clients...",
+      "job_responsibility": "Assist customers with inquiries, resolve issues, provide product information...",
+      "educational_requirements": "High school diploma or equivalent",
+      "experiences": "1+ years of customer service experience",
+      "contact_information": {
+        "phone": "555-6789",
+        "email": "customerservice@serviceexcellence.com"
+      }
+    }
+  ]
+  

@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "logo":"https://png.pngtree.com/png-vector/20190719/ourmid/pngtree-online-chart-icon-in-trendy-style-isolated-background-png-image_1548689.jpg",
+        "category_name":"Account & Finance",
+        "availability":"300 Jobs Available"
+
+    },
+    {
+        "id":2,
+        "logo":"https://media.istockphoto.com/id/1337402234/vector/job-seekers-abstract-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=AzN6OxoBMFMOwpVkfHDQg-hVKF7Ht8FgrZ4FbEB_CAc=",
+        "category_name":"Creative Design",
+        "availability":"100+ Jobs Available"
+
+    },
+    {
+        "id":3,
+        "logo":"https://media.istockphoto.com/id/1355482841/vector/marketing-meetup-abstract-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=Pq5GDS90m9uOO3WMPrJk7LykCgC8ItQS7V47XYN3DwQ=",
+        "category_name":"Marketing & Sales",
+        "availability":"150 Jobs Available"
+
+    },
+    {
+        "id":4,
+        "logo":"https://i.pinimg.com/originals/6d/55/fb/6d55fb0617cd48501f95dfc05506c578.png",
+        "category_name":"Engineering Job",
+        "availability":"224 Jobs Available"
+
+    }
+
+]

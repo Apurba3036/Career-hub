@@ -1,0 +1,21 @@
+.banner{
+
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+}
+
+.title{
+color: var(--Dark-01, #1A1919);
+font-family: Manrope;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.span{
+
+   color: var(--Linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%))
+}
