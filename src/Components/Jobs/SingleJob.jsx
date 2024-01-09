@@ -8,7 +8,7 @@ const SingleJob = ({a}) => {
             <div className="card mt-5">
   <div className="md:flex align-middle justify-center g-0 py-4 px-3">
     <div className="col-md-4 p-3">
-      <img src={a.logo} className="img-fluid rounded-start" alt="..."/>
+      <img src={a.logo} className="img-fluid rounded bg-cover" alt="..."/>
     </div>
     <div className="col-md-4">
       <div className="card-body md:pt-24">
@@ -21,7 +21,7 @@ const SingleJob = ({a}) => {
       </div>
     </div>
     <div className='md:mt-24'>
-    <Link to='/Details' className="btn btn-primary mt-3 ">View details</Link>
+    <Link to={`/Jobs/${a.id}`} className="btn btn-primary mt-3 ">View details</Link>
   </div>
   </div>
  

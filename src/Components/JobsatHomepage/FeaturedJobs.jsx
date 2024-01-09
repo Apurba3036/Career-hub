@@ -8,7 +8,7 @@ const FeaturedJobs = () => {
     const [featues,setfetures]=useState([]);
   
     useEffect(() => {
-        fetch('https://apurba3036.github.io/apitest/test.json')
+        fetch('jobs.json')
         .then(response => response.json())
         .then(data => setfetures(data))
         .catch(error => console.error('Error fetching JSON:', error));

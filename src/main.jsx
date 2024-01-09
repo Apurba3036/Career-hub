@@ -13,7 +13,8 @@ import Blogs from './Components/Blogs/Blogs.jsx';
 import Statistics from './Components/Statistics/Statistics.jsx';
 import FeaturedJobs from './Components/JobsatHomepage/FeaturedJobs.jsx';
 import Category from './Components/Category/Category.jsx';
-import Details from './Components/JobsatHomepage/Details.jsx';
+import Details from './Components/Jobs/Details.jsx';
+
 
 const router = createBrowserRouter([
   {
@@ -44,8 +45,10 @@ const router = createBrowserRouter([
     loader:()=>fetch(`test.json`)
   },
   {
-    path:"/Details",
-    element:<Details></Details>
+    path:"/Jobs/:id",
+    element:<Details></Details>,
+  
+
 
   },
 {
