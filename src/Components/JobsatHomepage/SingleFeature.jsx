@@ -19,7 +19,7 @@ const SingleFeature = ({feature}) => {
          <div className='flex align-middle'>
          <FaMoneyBill1Wave className='mr-2 mt-1' /> Salary: {feature.salary}
          </div>
-        <Link to='/Details' className="btn btn-primary mt-3">View Details</Link>
+        <Link to={`/jobs/${feature.id}`} className="btn btn-primary mt-3">View Details</Link>
       </div>
     </div>
   </div>
